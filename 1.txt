@@ -1,0 +1,64 @@
+{
+	"data8": {
+		"fulltext": "Текст 8",
+		"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+	},
+	"data9": {
+		"fulltext": "Текст 9",
+		"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+	},
+	"data": {
+		"data1": {
+		"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+		"text": "Текст 1",
+		"fulltext": "*The Tau Manifesto* is dedicated to one of the most important numbers in mathematics, perhaps *the* most important: the *circle constant* relating the circumference of a circle to its linear dimension. For millennia, the circle has been considered the most perfect of shapes, and the circle constant captures the geometry of the circle in a single number. Of course, the traditional choice for the circle constant is $\pi$тАФbut, as mathematician [Bob Palais][1] notes in his delightful article тАЬ$\pi$ Is Wrong!тАЭ,[^1] $\pi$ *is wrong*. ItтАЩs time to set things right. ",
+		"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+		},
+		"data2": {
+			"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+			"text": "Текст 2",
+			"fulltext": "Текст 2",
+			"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+		},
+		"data3": {
+			"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+			"text": "Текст 3",
+			"promourl": "http://google.com"
+		},
+		"data4": {
+			"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+			"text": "Текст 4",
+			"fulltext": "Текст 4",
+			"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+		},
+		"data5": {
+			"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+			"text": "Текст 5",
+			"fulltext": "Текст 5",
+			"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+		},
+		"data6": {
+			"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+			"text": "Текст 6",
+			"fulltext": "Текст 6",
+			"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+		},
+		"data7": {
+			"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+			"text": "Текст 7",
+			"promourl": "http://google.com"
+		},
+		"data8": {
+			"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+			"text": "Текст 8",
+			"fulltext": "Текст 8",
+			"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+		},
+		"data9": {
+			"picurl": "https://ru.seaicons.com/wp-content/uploads/2016/03/android-icon-2.png",
+			"text": "Текст 9",
+			"fulltext": "Текст 9",
+			"fullpic": "https://upweek.ru/wp-content/uploads/2014/07/android-hd-wallpaper-10-500x281.jpg"
+		}
+	}
+}
